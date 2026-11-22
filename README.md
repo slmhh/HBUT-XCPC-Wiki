@@ -1,0 +1,2 @@
+# HBUT-XCPC-Wiki
+面向HBUT学生的XCPC教程
